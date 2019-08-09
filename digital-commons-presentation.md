@@ -200,6 +200,9 @@ Read
 - Creative Commons free book 'Made with Creative Commons' ([link](https://creativecommons.org/use-remix/made-with-cc/))
 - Shareable.com '15 books to check out this summer' ([link](https://www.shareable.net/15-books-to-check-out-this-summer/))
 
+Listen
+- 99% Invisible Podcast Episode: Palaces for the people ([link](https://99percentinvisible.org/episode/palaces-for-the-people/))
+
 ---
 
 ## Sources
